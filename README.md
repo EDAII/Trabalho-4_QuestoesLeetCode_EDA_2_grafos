@@ -1,7 +1,7 @@
-# Algorítmos de busca!
+# Grafos!
 
 **Número da Lista**: 31<br>
-**Conteúdo da Disciplina**: Árvores Balanceadas!<br>
+**Conteúdo da Disciplina**: Grafos!<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -14,96 +14,68 @@
 ### Questões
 | Título | Responsável | Dificuldade
 | -- | -- | -- | 
-| 729. My Calendar I | Nathan Abreu | Média |
-| 732. My Calendar III  | Nathan Abreu | Difícil |
-| 295. Find Median from Data Stream | João Pedro | Díficil |
-| 327. Count of Range Sum | João Pedro | Díficil |
+|  | Nathan Abreu |  |
+|   | Nathan Abreu |  |
+|329. Longest Increasing Path in a Matrix  | João Pedro | Difícil |
+| 332. Reconstruct Intinerary | João Pedro | Difícil |
 
 
 ## Screenshots
-### [(729. My Calendar I)](https://leetcode.com/problems/my-calendar-i/description/)
+### [(Caminho crescente mais longo em uma Matriz)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=graph)
 
-![(729. My Calendar I)](Imagens/729.jpg)
+![(Caminho crescente mais longo em uma Matriz)](/Imagens/Longest_Increasing_Matrix.png)
 
-### [ (732. My Calendar III)](https://leetcode.com/problems/my-calendar-iii/description/)
+### [ (Reconstruindo_Intinerario)](https://leetcode.com/problems/reconstruct-itinerary/?envType=problem-list-v2&envId=graph)
 
-![ (732. My Calendar III)](Imagens/732.jpg)
+![ (Reconstruindo_Intinerario)](/Imagens/Reconstruct_Intinerary.png)
 
 
+### [()]()
 
-### [(295. Find Median from Data Stream)](https://leetcode.com/problems/find-median-from-data-stream/description/)
+![()]()
 
-![(295. Find Median from Data Stream)](Imagens/295.png)
+### [()]()
 
-### [(327. Count of Range Sum)](https://leetcode.com/problems/count-of-range-sum/description/)
-
-![(327. Count of Range Sum)](Imagens/327.png) 
+![()]() 
 
 
 ## Link do vídeo
 
 Clique no link abaixo para ser direcionado para o vídeo: 
 
-[(Link do Vídeo)](https://youtu.be/xPs1782cfR8)  
+[(Link do Vídeo)]()  
 
 
 
 
 ## Guia de execução
 
+
 ### Questão 01
 
-rode o Python: Nathan/729.py
+rode o Python: Joao_Pedro/Longest_Increasing_Matrix.py
 
 ```
 input: 
-["MyCalendar", "book", "book", "book"]
-[[], [10, 20], [15, 25], [20, 30]]
-
+matrix = [[9,9,4],[6,6,8],[2,1,1]]
 output: 
-[null, true, false, true]
+ 4
 
 ```
 
 ### Questão 02
 
-rode o Python: Nathan/732.py
+rode o Python: Joao_Pedro/Reconstruct_Intinerary.py
 
 ```
 input: 
-["MyCalendarThree","book","book","book","book","book","book"]
-[[],[10,20],[50,60],[10,40],[5,15],[5,10],[25,55]]
+tickets = [["MUC","LHR"],["JFK","MUC"],["SFO","SJC"],["LHR","SFO"]]
+
 
 output:
-[null,1,1,2,3,3,3]
+["JFK","MUC","LHR","SFO","SJC"]
 
 ```
-
-### Questão 295. Find Median from Data Stream
-
-rode o Python: Joao_Pedro/295.py
-
-```
-Input
-["MedianFinder", "addNum", "addNum", "findMedian", "addNum", "findMedian"]
-[[], [1], [2], [], [3], []]
-Output
-[null, null, null, 1.5, null, 2.0]
-
-
-```
-
-### Questão 327. Count of Range Sum
-
-rode o Python: Joao_Pedro/327.py
-
-```
-Input: nums = [-2,5,-1], lower = -2, upper = 2
-Output: 3
-Explanation: The three ranges are: [0,0], [2,2], and [0,2] and their respective sums are: -2, -1, 2.
-
-```
-
 ## Instalação 
 python instalado
 
