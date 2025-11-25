@@ -23,7 +23,7 @@
 ## Screenshots
 ### [(Caminho crescente mais longo em uma Matriz)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=graph)
 
-![(Caminho crescente mais longo em uma Matriz)](./Imagens/Longest_Increasing_Matrix.png)
+![(Caminho crescente mais longo em uma Matriz)](Imagens/Longest_Increasing_Matrix.png)
 
 ### [ (Reconstruindo_Intinerario)](https://leetcode.com/problems/reconstruct-itinerary/?envType=problem-list-v2&envId=graph)
 
