@@ -27,16 +27,15 @@
 
 ### [ (Reconstruindo_Intinerario)](https://leetcode.com/problems/reconstruct-itinerary/?envType=problem-list-v2&envId=graph)
 
-![ (Reconstruindo_Intinerario)](/Imagens/Reconstruct_Intinerary.png)
-
+![ (Reconstruindo_Intinerario)](Imagens/Reconstruct_Intinerary.png)
 
 ### [(Word Ladder II)](https://leetcode.com/problems/word-ladder-ii/?envType=problem-list-v2&envId=breadth-first-search)
 
-![(Word Ladder II)](/Imagens/word_ladder.png)
+![(Word Ladder II)](Imagens/word_ladder.png)
 
 ### [(Binary Tree Maximum Path Sum)](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=depth-first-search)
 
-![(Binary Tree Maximum Path Sum)](/Imagens/binary_tree.png) 
+![(Binary Tree Maximum Path Sum)](Imagens/binary_tree.png)
 
 
 ## Link do vídeo
