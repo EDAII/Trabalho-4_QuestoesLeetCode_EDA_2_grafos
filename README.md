@@ -43,7 +43,7 @@
 
 Clique no link abaixo para ser direcionado para o vídeo: 
 
-[(Link do Vídeo)]()  
+[(Link do Vídeo)](https://youtu.be/k1t9lX-tVLg)  
 
 
 
